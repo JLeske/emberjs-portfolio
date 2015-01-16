@@ -1,2 +1,2 @@
 # emberjs-portfolio
-A html portfolio app with the usage of emberJS.
+A html portfolio app with the usage of EmberJS.
